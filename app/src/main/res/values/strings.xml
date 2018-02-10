@@ -1,3 +1,5 @@
 <resources>
     <string name="app_name">Validator-A2</string>
+    <string name="textview">TextView</string>
+    <string name="validate">Validate</string>
 </resources>

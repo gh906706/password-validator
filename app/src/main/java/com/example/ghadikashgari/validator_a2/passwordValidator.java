@@ -43,7 +43,7 @@ public class passwordValidator {
         boolean len = passwordLength(password);
         boolean compare = compare(password);
 
-       
+
         if (len && compare){
             return 2;
         }
